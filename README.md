@@ -1,2 +1,3 @@
 # JavaScript
-Learning JavaScript — experiments, snippets, and small projects.
+Learning JavaScript — 
+experiments, snippets, and small projects.
